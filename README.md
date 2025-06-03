@@ -19,8 +19,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/seniorpython826/python-tetris.git
-cd python-tetris
+git clone https://github.com/seniorpython826/Tetris.git
+cd Tetris
 ```
 
 2. Запуск игры через (CMD):
